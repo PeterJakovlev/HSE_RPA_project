@@ -1,6 +1,3 @@
-Homework
-Obligatory part
-
 The python robot search articles with the "RPA impact" topic at the https://www.semanticscholar.org/ website.
 
 Functional steps
